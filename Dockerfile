@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.html /usr/share/nginx/html/
+COPY https://github.com/Rajk619/Mydemo/blob/branch1/index.html /usr/share/nginx/html/
